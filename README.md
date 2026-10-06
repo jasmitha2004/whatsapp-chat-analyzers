@@ -110,13 +110,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu Rao**
-
----
-
-## ❤️ Acknowledgement
+##  Acknowledgement
 
 Inspired by real-world chat data analysis and data visualization concepts.
 
